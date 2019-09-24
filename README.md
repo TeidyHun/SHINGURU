@@ -1,5 +1,5 @@
 # SHINGURU
 
-Projet d'école en groupe
+Projet d'école
 
 Création d'un site web pour une marque vestimentaire
